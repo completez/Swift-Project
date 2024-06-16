@@ -16,7 +16,7 @@ struct ContentView: View {
     
     var body: some View {
         HStack {
-            Text("Wanderler Guide 🤯 ")
+            Text("Wanderer Guide 🤯 ")
                 .font(.largeTitle)
             Spacer()
         }.padding()
